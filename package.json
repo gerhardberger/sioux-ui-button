@@ -1,0 +1,25 @@
+{
+    "name": "sioux-ui-button",
+    "version": "0.0.6",
+    "description": "UIButton module for sioux",
+    "main": "index.js",
+    "dependencies": {
+        "inherits": "*",
+        "sioux-ui": "*",
+        "insert-css": "*"
+    },
+    "keywords": [
+        "sioux",
+        "ui",
+        "button"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gerhardberger/sioux-ui-button.git"
+    },
+    "author": {
+        "name": "Gerhard Berger",
+        "email": "93.morph@gmail.com",
+        "url": "https://twitter.com/gerhard_berger"
+    }
+}
