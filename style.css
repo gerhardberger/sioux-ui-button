@@ -4,11 +4,11 @@ button, input[type="submit"], input[type="button"], .button {
 	color: black;
 	box-shadow: 1px 1px 3px #CCC;
 	border: none;
-	border-radius: 2px;
-	-webkit-transition: background 90ms linear;
+	border-radius: 30px;
+	-webkit-transition: -webkit-transform 85ms ease-in-out;
+	font-weight: bold;
 }
 
 button.active, input[type="submit"].active, input[type="button"].active, .button.active {
-	background: rgb(238, 176, 176);
-	color: black;
+	-webkit-transform: scale3d(.95, .95, 0);
 }
