@@ -5,7 +5,7 @@ var UI = require('sioux-ui');
 
 function initStates (self) {
 	self.on('touchstart', function (event) {
-		event.preventDefault();
+		//event.preventDefault();
 		self.element.classList.add('active');
 	});
 

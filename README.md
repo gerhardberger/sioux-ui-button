@@ -1,5 +1,9 @@
 # Sioux UIButton
 
+``` batch
+npm install sioux-ui-button
+```
+
 ## Overview
 
 The `UIButton` class lets you create buttons with some styling and with touch events.
